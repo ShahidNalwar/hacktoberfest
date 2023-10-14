@@ -1,6 +1,6 @@
 #### Name: Shahid Nalwar
  - Place: Maharashtra , India
- - Bio: Student
+ - Bio: Student studing B.TECH in AI
  - GitHub: [ShahidNalwar](https://github.com/ShahidNalwar)
 
 #### Name: Vallenain
