@@ -1,3 +1,8 @@
+#### Name: Shahid Nalwar
+ - Place: Maharashtra , India
+ - Bio: Student
+ - GitHub: [ShahidNalwar](https://github.com/ShahidNalwar)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
